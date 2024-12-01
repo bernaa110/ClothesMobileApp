@@ -1,4 +1,4 @@
-# clothes_app
+# Clothes App
 
 A new Flutter project.
 
